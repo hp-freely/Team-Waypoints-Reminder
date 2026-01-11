@@ -1,3 +1,7 @@
+Download Instructions:
+1. Click "TeamWaypointsReminder.zip"
+2. Click the "..." button in the top right of page.
+3. Select "Download"
 # Team Waypoints Reminder
 Creates a chat message reminder to set Team Waypoints (Buddy Points) after a match starts in tournament mode.
 
@@ -8,4 +12,4 @@ The primary reason for creating this script is that setting Buddy Points must be
 
 The script will fire after *mission start*, not map start. Mission Start is the 30 second countdown before the match begins. This should give a player plenty of time to set waypoints as needed.
 
-*Final Note:* The functionality in this script is automatically included in the Team Waypoints Manager script. If you are using that script, then you do not need to use this script. However, there is conflict in using both at the same time.
+*Final Note:* The functionality in this script is automatically included in the Team Waypoints Manager script. If you are using that script, then you do not need to use this script. However, there is no conflict in using both at the same time.
